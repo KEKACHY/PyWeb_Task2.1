@@ -1,0 +1,4 @@
+site_name: PyWeb_Task2.1
+nav:
+  - Главная: index.md
+  - Обо мне: about.md
